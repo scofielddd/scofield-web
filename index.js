@@ -1,6 +1,5 @@
 import './style.css';
 import * as THREE from 'three';
-import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 
 import spaceTextureSrc from './space2.jpg';
 import scoTextureSrc from './scofield.jpg';

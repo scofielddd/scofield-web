@@ -15,5 +15,9 @@
   "dependencies": {
     "gh-pages": "^6.0.0",
     "three": "^0.156.1"
-  }
+  },
+  "main": "counter.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
